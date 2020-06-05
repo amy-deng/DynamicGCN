@@ -12,6 +12,9 @@ Source code for paper "[Learning Dynamic Context Graphs for Predicting Social Ev
 
 ### Sample dataset
 - **THAD6h** (Thailand dynamic (temporal) dataset, around 600 nodes per graph) [Link](https://drive.google.com/open?id=1l1vBoldu1U_ktqKT8tr9HyTHDydEmXWo "Link")
+- **INDD6h** [Link](https://drive.google.com/drive/folders/1ySdGDpLlBbh1XuG5cAL9FmFFVrgE7-wr?usp=sharing "Link")
+- **EGYD6h** [Link](https://drive.google.com/drive/folders/1ZvVn81TZF7kn3kh9eIMlm2YX6NeV6hxG?usp=sharing "Link")
+- **RUSD6h** [Link](https://drive.google.com/drive/folders/1EikE191TA7rx_YhmGsMOrjaW7fFmVpLV?usp=sharing "Link")
   - **\*.idx** / **\*.tidx**      Word index file for training/testing
   - **\*.x** / **\*.tx**      Temporal graph input file for training/testing
   - **\*.y** / **\*.ty**      Ground truth for training/testing
