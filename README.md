@@ -20,3 +20,18 @@ This is the source code for paper [Learning Dynamic Context Graphs for Predictin
   - **\*.idx** / **\*.tidx**      Word index file for training/testing
   - **\*.x** / **\*.tx**      Temporal graph input file for training/testing
   - **\*.y** / **\*.ty**      Ground truth for training/testing
+
+
+## Cite
+
+Please cite our paper if you find this code useful for your research:
+
+```
+@inproceedings{deng2019learning,
+  title={Learning Dynamic Context Graphs for Predicting Social Events},
+  author={Deng, Songgaojun and Rangwala, Huzefa and Ning, Yue},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1007--1016},
+  year={2019}
+}
+```
