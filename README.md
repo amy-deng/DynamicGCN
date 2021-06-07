@@ -5,7 +5,7 @@ This is the source code for paper [Learning Dynamic Context Graphs for Predictin
 
 ### Data
 - [ICEWS event data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075 "ICEWS event data") is available online.
-- ICEWS news data has not been released publicly.
+- ICEWS news data has not been released publicly. If you want to access the original news text information of the event, I suggest [GDELT data](https://www.gdeltproject.org/ "Link").
 
 ### Libraries
 - **PyTorch >= 1.0**
