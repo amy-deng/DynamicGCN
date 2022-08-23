@@ -13,10 +13,10 @@ This is the source code for paper [Learning Dynamic Context Graphs for Predictin
 - **pytorch_sparse** Refer to [the official website](https://github.com/rusty1s/pytorch_sparse "this page") to install.
 
 ### Sample dataset
-- **THAD6h** (Thailand dynamic (temporal) dataset, around 600 nodes per graph) [Link](https://drive.google.com/open?id=1l1vBoldu1U_ktqKT8tr9HyTHDydEmXWo "Link")
-- **INDD6h** [Link](https://drive.google.com/drive/folders/1ySdGDpLlBbh1XuG5cAL9FmFFVrgE7-wr?usp=sharing "Link")
-- **EGYD6h** [Link](https://drive.google.com/drive/folders/1ZvVn81TZF7kn3kh9eIMlm2YX6NeV6hxG?usp=sharing "Link")
-- **RUSD6h** [Link](https://drive.google.com/drive/folders/1EikE191TA7rx_YhmGsMOrjaW7fFmVpLV?usp=sharing "Link")
+- **THAD6h** (Thailand dynamic (temporal) dataset, around 600 nodes per graph) [Link](https://drive.google.com/drive/folders/11fuAkgybqPOEirQFQi8wkld_R5dZkv74?usp=sharing "Google Drive")
+- **INDD6h** [Link](https://drive.google.com/drive/folders/1Yvo_sgWnWaT90nL1MzELY46z0IqoFE7S?usp=sharing "Google Drive")
+- **EGYD6h** [Link](https://drive.google.com/drive/folders/1lUk8VvAKDslObDUdVE3sf0cyDp5oKI8l?usp=sharing "Google Drive")
+- **RUSD6h** [Link](https://drive.google.com/drive/folders/1aEDqijSYTrjNNAfgHCNe37slwmuJL4Ay?usp=sharing "Google Drive")
   - **\*.idx** / **\*.tidx**      Word index file for training/testing
   - **\*.x** / **\*.tx**      Temporal graph input file for training/testing
   - **\*.y** / **\*.ty**      Ground truth for training/testing
